@@ -1,0 +1,78 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+
+}
+h1,h3{
+  font-size: 180%;
+}
+.top{
+  margin: 0;
+  height: 100%;
+  padding-top: 10px;
+  background-color: #7868E6;
+  color: #D3D1FF;
+}
+.middle{
+  height: 100vh;
+  color: #7868E6;
+}
+.pic{
+  padding-top: 6%;
+
+}
+.p-img{
+  max-width: 50%;
+  height: auto;
+}
+.audio-sec{
+  padding-top: 6%;
+  margin: 10%;
+  margin-bottom: 0%;
+}
+.video-sec{
+  margin: 7%;
+}
+
+.video-container{
+  display: flex;
+}
+.vid{
+  margin: auto;
+}
+
+
+
+.list-con{
+  text-align: justify;
+  display: flex;
+}
+.lists{
+  margin: auto;
+  align-items: center;
+
+  padding-top: 3%;
+}
+.bottom{
+  height: 100vh;
+  background-color: #7868E6;
+  color: #D3D1FF;
+}
+
+.skill-sec{
+  align-content: center;
+  align-items: center;
+}
+
+
+
+#footer .container-fluid{
+  padding: 1% 1%;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
